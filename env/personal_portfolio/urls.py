@@ -22,4 +22,5 @@ urlpatterns = [
     # hello_wprld app was deleted
     # path('', include('hello_world.urls')),
     path("projects/", include("app_projects.urls")),
+    path("blog/", include("app_blog.urls")),
 ]
