@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app_projects',
+    'app_blog',
     # hello_world app was deleted
     # 'hello_world', 
 ]
